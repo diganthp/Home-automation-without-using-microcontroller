@@ -20,8 +20,16 @@ The software used for simulation is [proteus](https://www.labcenter.com/educatio
 
 ## Flow Chart and circuit
 ![Flow Chart](https://github.com/diganthp/Home-automation-without-using-microcontroller/blob/master/Images/flow.png)
+
+Flow Chart
+
 ![LDR Circuit](https://github.com/diganthp/Home-automation-without-using-microcontroller/blob/master/Images/ldr%20circuit.png)
+
+LDR Circuit
+
 ![Temperature Regulation CIrcuit](https://github.com/diganthp/Home-automation-without-using-microcontroller/blob/master/Images/temp_reg_circuit.png)
+
+Temperature Regulation Circuit
 
 
 ## Video demo:
