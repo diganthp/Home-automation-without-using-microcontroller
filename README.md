@@ -18,4 +18,11 @@ In today’s world there is an increasing need for intelligent power saving, use
 ### Software
 The software used for simulation is [proteus](https://www.labcenter.com/education/)
 
-Video demo: [Home Automation without using Microcontroller](https://www.youtube.com/watch?v=phOuEldAthk&t)
+## Flow Chart and circuit
+![Flow Chart](https://github.com/diganthp/Home-automation-without-using-microcontroller/blob/master/Images/flow.png)
+![LDR Circuit](https://github.com/diganthp/Home-automation-without-using-microcontroller/blob/master/Images/ldr%20circuit.png)
+![Temperature Regulation CIrcuit](https://github.com/diganthp/Home-automation-without-using-microcontroller/blob/master/Images/temp_reg_circuit.png)
+
+
+## Video demo:
+[Home Automation without using Microcontroller](https://www.youtube.com/watch?v=phOuEldAthk&t)
